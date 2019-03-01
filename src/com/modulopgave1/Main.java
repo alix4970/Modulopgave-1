@@ -15,7 +15,6 @@ public class Main {
 
         MigrationRepository migrationRepo = new MigrationRepository();
         MigrationsController migrationsController = new MigrationsController(migrationRepo);
-
         migrationsController.displayMigrationsView();
     }
 }
