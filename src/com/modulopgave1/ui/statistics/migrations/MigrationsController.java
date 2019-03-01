@@ -149,6 +149,7 @@ public class MigrationsController {
             System.out.print("From Municipality\t>>\t");
             input = scanner.nextLine();
         }
+
         model.getSearchCriteria().setFromMunicipality(new Municipality(0, input));
     }
 
