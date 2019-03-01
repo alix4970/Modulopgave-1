@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ba5ecc-e80f-4e4c-8fea-01e78664f562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/modulopgave1/dal/PeopleStatisticRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulopgave1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modulopgave1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulopgave1/META-INF/Modulopgave1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar.REMOVEThisExtention" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/modulopgave1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/modulopgave1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/modulopgave1/model/PeopleStatistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/modulopgave1/model/PeopleStatistic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
+            <state relative-caret-position="270">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,36 +30,9 @@
         <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/ConnectionFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#269#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="87" column="67" lean-forward="true" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3788#3789#0" expanded="true" />
-                <element signature="e#3844#3845#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,63 +41,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/PeopleStatisticRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+            <state relative-caret-position="1153">
+              <caret line="181" column="85" selection-start-line="181" selection-start-column="85" selection-end-line="181" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3416#3433#0" expanded="true" />
-                <element signature="e#7641#7657#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java">
+        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/Migration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/Municipality.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/migrations/MigrationsController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
-              <caret line="160" column="5" lean-forward="true" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
+            <state relative-caret-position="-311">
+              <caret line="87" column="67" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4035#4036#0" expanded="true" />
-                <element signature="e#4091#4092#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/PeopleStatistic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="86" column="43" selection-start-line="86" selection-start-column="43" selection-end-line="86" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -185,9 +109,9 @@
         <option value="$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java" />
         <option value="$PROJECT_DIR$/src/com/modulopgave1/model/PeopleStatistic.java" />
         <option value="$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticModel.java" />
-        <option value="$PROJECT_DIR$/src/com/modulopgave1/Main.java" />
         <option value="$PROJECT_DIR$/src/com/modulopgave1/dal/PeopleStatisticRepository.java" />
         <option value="$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java" />
+        <option value="$PROJECT_DIR$/src/com/modulopgave1/Main.java" />
         <option value="$PROJECT_DIR$/src/com/modulopgave1/dal/ConnectionFactory.java" />
       </list>
     </option>
@@ -259,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551434391881" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551436661595" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -370,13 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/IRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/util/Console.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -395,27 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/migrations/MigrationsModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/MigrationRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1338">
-          <caret line="239" column="5" lean-forward="true" selection-start-line="239" selection-start-column="5" selection-end-line="239" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#7625#7641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/Municipality.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -430,13 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/PeopleStatistic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
@@ -444,10 +333,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/IRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/model/MovementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        <state relative-caret-position="225">
+          <caret line="15" column="107" lean-forward="true" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#252#269#0" expanded="true" />
@@ -455,31 +358,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/migrations/MigrationsModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="110" selection-start-line="12" selection-start-column="110" selection-end-line="12" selection-end-column="110" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/PeopleStatisticRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3416#3433#0" expanded="true" />
-            <element signature="e#7641#7657#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/migrations/MigrationsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
+        <state relative-caret-position="2400">
           <caret line="160" column="5" lean-forward="true" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -489,14 +380,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java">
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/MigrationRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="87" column="67" lean-forward="true" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
+        <state relative-caret-position="3525">
+          <caret line="239" column="5" lean-forward="true" selection-start-line="239" selection-start-column="5" selection-end-line="239" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3788#3789#0" expanded="true" />
-            <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#7625#7641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/PeopleStatisticRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1153">
+          <caret line="181" column="85" selection-start-line="181" selection-start-column="85" selection-end-line="181" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/ui/statistics/peoplestatistic/PeopleStatisticController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="87" column="67" selection-start-line="87" selection-start-column="67" selection-end-line="87" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -504,7 +424,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/modulopgave1/dal/ConnectionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

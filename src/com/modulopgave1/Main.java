@@ -13,9 +13,9 @@ public class Main {
         PeopleStatisticController peoplestatistcController = new PeopleStatisticController(peoplestatisticRepo);
         peoplestatistcController.displayMovementView();
 
-        //MigrationRepository migrationRepo = new MigrationRepository();
-        //MigrationsController migrationsController = new MigrationsController(migrationRepo);
+        MigrationRepository migrationRepo = new MigrationRepository();
+        MigrationsController migrationsController = new MigrationsController(migrationRepo);
 
-        //migrationsController.displayMigrationsView();
+        migrationsController.displayMigrationsView();
     }
 }
