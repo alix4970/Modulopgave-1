@@ -21,4 +21,11 @@ public class MovementType {
 		this.title = title;
 	}
 
+	public MovementType() {}
+
+	public MovementType(int id, String title) {
+		setId(id);
+		setTitle(title);
+	}
+
 }

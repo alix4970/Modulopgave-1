@@ -57,4 +57,35 @@ public class PeopleStatistic {
 		this.count = count;
 	}
 
+	public PeopleStatistic()
+	{
+		setMunicipality(new Municipality(0, ""));
+		setMovementType(new MovementType(0, ""));
+		setGender(new Gender(0, ""));
+		setYear(new Year(0, 0));
+	}
+
+	public PeopleStatistic(int id, Year year, MovementType movementType, Municipality municipality, Gender gender, int count)
+	{
+		setId(id);
+		setYear(year);
+		setMunicipality(municipality);
+		setMovementType(movementType);
+		setGender(gender);
+		setCount(count);
+	}
+
+	public String toString()
+	{
+		String result = "";
+
+		result += "Id: " + getId();
+		result += "\tYear: " + getYear().getYear();
+		result += "\tMovement: " + getMovementType().getTitle();
+		result += "\tMunicipality: " + getMunicipality().getTitle();
+		result += "\tGender: " + getGender().getTitle();
+		result += "\tCount: " + getCount();
+
+		return result;
+	}
 }
