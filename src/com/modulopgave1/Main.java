@@ -31,7 +31,7 @@ public class Main {
             System.out.println("MAIN MENU\n");
             System.out.println("1) Migrations");
             System.out.println("2) People Statistics");
-            System.out.println("\n0) Back");
+            System.out.println("\n0) EXIT");
 
             int input = -1;
             while (!((input == 0) || (input >= 1 && input <= 2))) {
