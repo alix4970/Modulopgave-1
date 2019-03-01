@@ -1,5 +1,7 @@
 package com.modulopgave1;
 
+import java.io.UnsupportedEncodingException;
+import java.nio.charset.Charset;
 import java.util.Scanner;
 
 import com.modulopgave1.util.Console;
@@ -28,6 +30,7 @@ public class Main {
     public static void displayMainView() {
         while(true) {
             Console.clearConsole();
+            System.out.println("Default Charset=" + Charset.defaultCharset());
             System.out.println("MAIN MENU\n");
             System.out.println("1) Migrations");
             System.out.println("2) People Statistics");

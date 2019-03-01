@@ -6,7 +6,10 @@ import com.modulopgave1.model.Migration;
 import com.modulopgave1.model.Municipality;
 import com.modulopgave1.model.Year;
 import com.modulopgave1.util.Console;
+import com.modulopgave1.util.StringHelper;
 
+import java.io.UnsupportedEncodingException;
+import java.nio.charset.Charset;
 import java.util.Iterator;
 import java.util.Scanner;
 
@@ -180,7 +183,7 @@ public class MigrationsController {
 
         switch (input) {
             case 1:
-                gender.setTitle("Mænd");
+                gender.setTitle(StringHelper.convert("Mænd", "ISO-8859-1", "UTF-8"));
                 break;
             case 2:
                 gender.setTitle("Kvinder");

@@ -3,7 +3,9 @@ package com.modulopgave1.ui.statistics.peoplestatistic;
 import com.modulopgave1.dal.PeopleStatisticRepository;
 import com.modulopgave1.model.*;
 import com.modulopgave1.util.Console;
+import com.modulopgave1.util.StringHelper;
 
+import java.nio.charset.Charset;
 import java.util.Iterator;
 import java.util.Scanner;
 
@@ -163,7 +165,7 @@ public class PeopleStatisticController {
 
         switch (input) {
             case 1:
-                gender.setTitle("Mænd");
+                gender.setTitle(StringHelper.convert("Mænd", "ISO-8859-1", "UTF-8"));
                 break;
             case 2:
                 gender.setTitle("Kvinder");
